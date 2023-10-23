@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Comparable"},{"p":"<Unnamed>","l":"CourseDBElement"},{"p":"<Unnamed>","l":"CourseDBManager"},{"p":"<Unnamed>","l":"CourseDBManager_STUDENT_Test"},{"p":"<Unnamed>","l":"CourseDBStructure"},{"p":"<Unnamed>","l":"CourseDBStructureTest"}];updateSearchResults();
